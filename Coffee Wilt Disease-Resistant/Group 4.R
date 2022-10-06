@@ -1,6 +1,6 @@
 library(readxl)
 
-work <- read_excel(("D:/R/R/Group Assignment 1_Cup sensory results-CWDr lines.xlsx"))#assigning the imported excel file to work 
+work <- read_excel(("/home/hassan/School/year-2/sem-1/Data Science/Data-Science-and-Machine-Learning-in-R/Coffee Wilt Disease-Resistant/Cup sensory results-CWDr lines.xlsx"))#assigning the imported excel file to work 
 View(work)
 
 library(ggplot2)
