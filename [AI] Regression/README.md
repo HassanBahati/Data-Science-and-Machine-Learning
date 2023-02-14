@@ -15,3 +15,20 @@ predict the pricing of housing in uganda, based off
 `matplotlib` - mat. creates plots and graphs in 2D
 
 `scikit-learn` - sklearn. Has ML algorithms for SL and USL
+
+
+
+- import data
+- clean
+- subset data using variables eg X for platform field in data
+- train model using decision trees in sklearn
+
+just to know where to split based on the question 
+
+
+- ranges are categorical
+- 
+
+
+categorical data - classification approach of supervised learning
+continuious data eg age, temp - regression approach of unsupervised learning
